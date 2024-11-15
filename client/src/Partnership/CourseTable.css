@@ -6,7 +6,7 @@
   .table-wrapper {
     max-height: 401px; /* Set a fixed height for the scrollable area */
     overflow-y: auto; /* Enable vertical scrolling */
-    border: 1px solid #ccc; /* Optional: add a border to the scrollable area */
+    border: 2px solid #ccc; /* Optional: add a border to the scrollable area */
   }
   
   .course-table {
