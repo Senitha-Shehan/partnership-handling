@@ -29,8 +29,4 @@ This is a web application designed to manage partnerships for students. It enabl
 ### **Database**
 - **MongoDB**: As the primary database for storing partnership data.
 
-### **Other Tools**
-- **EmailJS**: For sending email notifications about partnership updates.
-- **Twilio**: For sending SMS notifications to students.
-
 ---
