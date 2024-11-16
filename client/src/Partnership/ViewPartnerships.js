@@ -56,7 +56,7 @@ function ViewPartnerships() {
           <select>
             <option>Select Level Of Interest</option>
             <option>Masters/PG Degree</option>
-            <option>Bachelors/UG Degree</option>
+            <option>Bachelor/UG Degree</option>
             <option>Doctoral Degree PhD</option>
             <option>Internships</option>
           </select>
